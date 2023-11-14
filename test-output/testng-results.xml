@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-09T21:42:58Z" name="Default suite" finished-at="2023-11-09T21:44:58Z" duration-ms="120494">
+    <groups>
+    </groups>
+    <test started-at="2023-11-09T21:42:58Z" name="Default test" finished-at="2023-11-09T21:44:58Z" duration-ms="120494">
+      <class name="com.it.bd.wafilife">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.wafilife@1115ec15]" started-at="2023-11-10T03:42:52Z" name="start" finished-at="2023-11-10T03:42:58Z" duration-ms="5950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="firstTest()[pri:0, instance:com.it.bd.wafilife@1115ec15]" started-at="2023-11-10T03:42:58Z" name="firstTest" finished-at="2023-11-10T03:44:58Z" duration-ms="120449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.it.bd.wafilife@1115ec15]" started-at="2023-11-10T03:44:58Z" name="close" finished-at="2023-11-10T03:45:01Z" duration-ms="3366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.it.bd.wafilife -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
